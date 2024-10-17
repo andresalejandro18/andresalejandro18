@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andresalejandro18
-- 👀 I’m interested in ...Economic modelling, UX Design, and data science
-- 🌱 I’m currently learning ..SQL and Python
+- 👀 I’m interested in ...Data Science, Bioinformatics, and Product Management
+- 🌱 I’m currently learning ..SQL and Javascript
 - 💞️ I’m looking to collaborate on ...health data science & bioinformatics
 - 📫 How to reach me ...email (andresdavila20@outlook.com)
 
